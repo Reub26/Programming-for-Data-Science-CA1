@@ -1,6 +1,8 @@
 # Programming-for-Data-Science-CA1
 School CA1 project for elective, Python Programming for Data Science.
+
 This is a data analysis presentation for at least 3 datasets belonging to the National Environment Agency (NEA) based on a few requirements.
+
 It includes:
 - questions to be answered to gain deeper insights into the chosen datasets such that an interesting data analysis can be produced.
 - for each dataset, write Python code that uses the Numpy package to extract useful statistical or summary information about the data and Matplotlib package to produce useful data visualizations that explain the data
